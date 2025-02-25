@@ -23,7 +23,9 @@
 <img align="right" height="100" src="https://media3.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif?cid=6c09b952u9pffry2ssr8356pkrn14pyj50376r1o2vmn7vv1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimbinsalem&show_icons=true&locale=en&layout=compact" alt="ibrahimbinsalem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimbinsalem&show_icons=true&locale=en" alt="ibrahimbinsalem" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimbinsalem&" alt="ibrahimbinsalem" /></p>
