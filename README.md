@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="https://raw.githubusercontent.com/ibrahimbinsalem/ibrahimbinsalem/output/snake.svg" alt="Snake animation" />
+<img align="right" height="100" src="https://media3.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif?cid=6c09b952u9pffry2ssr8356pkrn14pyj50376r1o2vmn7vv1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 
 
