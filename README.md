@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Hi 👋! My name is Ibrahim and I'm a Programmer, from Yemen</h3>
 
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=wshehab99&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbinsalem&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbinsalem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimbinsalem" alt="ibrahimbinsalem" /></a> </p>
@@ -29,14 +42,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimbinsalem&" alt="ibrahimbinsalem" /></p>
 
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=wshehab99&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
