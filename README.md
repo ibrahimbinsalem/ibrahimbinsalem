@@ -1,19 +1,19 @@
 
-# Hi, I'm Waleed! 👋
+# Hi, I'm Ibrahim! 👋
 
 
 ## 🚀 About Me
-Experienced Software Developer with over 2 years of expertise in PHP and the Laravel framework. Skilled in designing and maintaining server-side applications, developing robust RESTful APIs, and integrating third-party services. Proficient in database management with MySQL, PostgreSQL, and MongoDB. Strong understanding of SOLID principles, web security, and best practices in backend development. Proven ability to mentor junior developers, conduct code reviews, and ensure the performance, security, and reliability of applications. Passionate about staying up-to-date with industry trends and delivering high-quality, scalable web applications
+Experienced Software Developer with over 3 years of expertise in PHP and the Laravel framework. Skilled in designing and maintaining server-side applications, developing robust RESTful APIs, and integrating third-party services. Proficient in database management with MySQL, PostgreSQL, and MongoDB. Strong understanding of SOLID principles, web security, and best practices in backend development.  conduct code reviews, and ensure the performance, security, and reliability of applications. Passionate about staying up-to-date with industry trends and delivering high-quality, scalable web applications
 
 
 ## 🔗 Links
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-E7700D?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23528868/waleed-bin-shehab)
-[![hackerrank](https://img.shields.io/badge/hackerrank-20d761?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/waleedbinshihab)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wshehab99.github.io/portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshehab99)
-[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wshehab99)
-[![instagram](https://img.shields.io/badge/instagram-5B51D8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wshehab99)
-[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/wshehab99)
+[![stackoverflow]()
+[![hackerrank]()
+[![portfolio]()
+[![linkedin]()
+[![X]()
+[![instagram]()
+[![facebook]()
 
 
 ## 🛠 Languages and Tools
@@ -21,7 +21,7 @@ Experienced Software Developer with over 2 years of expertise in PHP and the Lar
 
 ### Languages:
 
-| PHP | Python3 | JS | Dart | HTML | CSS |
+| PHP | Python3 | JS | Dart | HTML | CSS | C# | .Net |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
   
