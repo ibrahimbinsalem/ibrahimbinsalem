@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 
-## 🚀 About Me
+
 <h3 align="center">Hi 👋! My name is Ibrahim and I'm a Programmer, from Yemen</h3>
+## 🚀 About Me
+Experienced Software Developer with over 3 years of expertise in PHP and the Laravel framework. Skilled in designing and maintaining server-side applications, developing robust RESTful APIs, and integrating third-party services. Proficient in database management with MySQL, PostgreSQL, and MongoDB. Strong understanding of SOLID principles, web security, and best practices in backend development. conduct code reviews, and ensure the performance, security, and reliability of applications. Passionate about staying up-to-date with industry trends and delivering high-quality, scalable web applications
 
 </p>
  
