@@ -28,3 +28,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimbinsalem&show_icons=true&locale=en" alt="ibrahimbinsalem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimbinsalem&" alt="ibrahimbinsalem" /></p>
+
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=wshehab99&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
